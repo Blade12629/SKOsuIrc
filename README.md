@@ -1,6 +1,6 @@
 # SKOsuIrc
 
-Osu Irc Client
+osu! Irc Client
 
 ---
 
