@@ -4,6 +4,10 @@ osu! Irc Client
 
 ---
 
+https://www.nuget.org/packages/SKOsuIrc/1.0.0
+
+---
+
 See https://github.com/Blade12629/SKOsuIrc/wiki/Documentation for documentation
 
 ---
